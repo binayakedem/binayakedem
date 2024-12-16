@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [http://www.binayalimbu.com.np](http://www.binayalimbu.com.np)
 
-- 📝 I regularly write articles on [http://www.binayalimbu.com.np](http://www.binayalimbu.com.np)
+- 📝 I regularly write articles on [http://www.binayalimbu.com.np](http://www.binayalimbu.com.np/blog)
 
 - 💬 Ask me about **MERN, MEAN**
 
 - 📫 How to reach me **binayalimbu300@gmail.com**
 
-- 📄 Know about my experiences [http://www.binayalimbu.com.np](http://www.binayalimbu.com.np)
+- 📄 Know about my experiences [http://www.binayalimbu.com.np](http://www.binayalimbu.com.np/experiences)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
